@@ -60,3 +60,9 @@ typings/
 # webpack default dist folder
 dist/
 
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+src/**/*.css
+package-lock.json
